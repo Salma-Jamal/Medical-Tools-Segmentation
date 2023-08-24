@@ -1,4 +1,5 @@
 # Medical Tools Segmentation 
+![Alt Text](sample.png)
 - Precise segmentation of medical instruments and tools plays a crucial role in assisting healthcare professionals during surgical procedures. 
 - The project focuses on leveraging deep learning techniques to accurately segment medical tools from image.
 
